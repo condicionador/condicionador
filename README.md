@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @condicionador
 - 👀 I’m interested in python, web development, app development and games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on anything in python
 - 📫 How to reach me @santannaiago on instagram
 
