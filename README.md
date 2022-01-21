@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @condicionador
-- 👀 I’m interested in python, web development, app development and games
+- 👋 Hi, I’m @santannaiago
+- 👀 I’m interested in react, web development, app development and games
 - 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on anything in web development
 - 📫 How to reach me @santannaiago on instagram
